@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobilerepairshop/static/css/main.a4e2ab5f.css",
+    "main.js": "/mobilerepairshop/static/js/main.436d0dde.js",
+    "static/js/787.6656bae6.chunk.js": "/mobilerepairshop/static/js/787.6656bae6.chunk.js",
+    "index.html": "/mobilerepairshop/index.html",
+    "main.a4e2ab5f.css.map": "/mobilerepairshop/static/css/main.a4e2ab5f.css.map",
+    "main.436d0dde.js.map": "/mobilerepairshop/static/js/main.436d0dde.js.map",
+    "787.6656bae6.chunk.js.map": "/mobilerepairshop/static/js/787.6656bae6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4e2ab5f.css",
+    "static/js/main.436d0dde.js"
+  ]
+}
